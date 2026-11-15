@@ -1,6 +1,6 @@
 # Exp 13 - Simulate an Asynchronous Operation Using Promises in React
-## NAME: Sukhmeet Kaur G
-## REG NO: 2305001032
+## NAME: Mahesh N
+## REG NO: 2305001017
 ## Aim
 To develop a React application that simulates an asynchronous student-data operation using a JavaScript Promise, displays a loading message while the operation is in progress, and displays the result when the Promise is fulfilled.
 
